@@ -4,11 +4,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=chaanalyst.chaanalyst&" />
 </div>
 
-<div align="left">
-<a href="linkedin.com/in/andrew-cha/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-</div>
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrew-cha%2F">
 
 
 ## 👤 About Me:
