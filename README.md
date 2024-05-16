@@ -1,10 +1,20 @@
 # Welcome! I'm Andrew [<img src="https://github.com/chaanalyst/chaanalyst/blob/main/images/hi.gif" width="30">](https://github.com/chaanalyst/chaanalyst/blob/main/images/hi.gif)
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=chaanalyst.chaanalyst&" />
+<div style="text-align: left;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=chaanalyst.chaanalyst" style="display: inline-block; vertical-align: middle;" />
+  <a href="https://linkedin.com/in/andrew-cha/" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:your.email@example.com" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail" />
+  </a>
+  <a href="https://www.kaggle.com/chaanalyst" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-white?style=flat&logo=kaggle" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/andrew.cha6862/vizzes" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-white?style=flat&logo=tableau" />
+  </a>
 </div>
-
-<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandrew-cha%2F">
 
 
 ## 👤 About Me:
