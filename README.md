@@ -2,18 +2,6 @@
 
 <div style="text-align: left;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=chaanalyst.chaanalyst" style="display: inline-block; vertical-align: middle;" />
-  <a href="https://linkedin.com/in/andrew-cha/" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:your.email@example.com" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail" />
-  </a>
-  <a href="https://www.kaggle.com/chaanalyst" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-white?style=flat&logo=kaggle" />
-  </a>
-  <a href="https://public.tableau.com/app/profile/andrew.cha6862/vizzes" style="display: inline-block; vertical-align: middle; margin-left: 10px;">
-    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-white?style=flat&logo=tableau" />
-  </a>
 </div>
 
 
