@@ -4,8 +4,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=chaanalyst.chaanalyst" style="display: inline-block; vertical-align: middle;" />
 </div>
 
-
 ## 👤 About Me:
+[![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:andrewtcha07@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-cha/)
+[![Static Badge](https://img.shields.io/badge/Tableau-%23E97627?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/chaanalyst)
+[![Static Badge](https://img.shields.io/badge/Kaggle-white?style=flat&logo=kaggle)](https://www.kaggle.com/chaanalyst)
+
 + 📍 Based in Oregon
 + 🚀 Up-and-coming **Data Analyst**
 + 🔍 Passionate about uncovering insights and telling stories through data
